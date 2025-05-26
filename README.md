@@ -6,7 +6,7 @@
 
 <div class="github-stats">
   <a href="https://github.com/LaisAmano" target="_blank">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaisAmano&show_icons=true&theme=dracula" alt="GitHub Stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaisAmano&show_icons=true&theme=dracula&hide_rank=true" alt="GitHub Stats">
   </a>
   <a href="https://github.com/LaisAmano" target="_blank">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaisAmano&show_icons=true&theme=dracula" alt="Top Langs">
