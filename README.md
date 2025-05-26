@@ -5,10 +5,10 @@
 - 🎯 Busco oportunidades para crescer na área de tecnologia, aplicando criatividade e boas práticas na construção de soluções reais.
 
 <div class="github-stats">
-  <a href="https://github.com/laisamano/github-readme-stats" target="_blank">
+  <a href="https://www.linkedin.com/in/lais-amano-30b788306/" target="_blank">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaisAmano&show_icons=true&theme=dracula" alt="GitHub Stats">
   </a>
-  <a height="180em" href="https://github.com/laisamano/github-readme-stats" target="_blank">
+  <a height="180em" href="https://www.linkedin.com/in/lais-amano-30b788306/" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaisAmano&show_icons=true&theme=dracula" alt="Top Langs">
   </a>
 </div>
