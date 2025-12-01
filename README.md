@@ -22,37 +22,6 @@
 
 ---
 
-### 🛠️ Habilidades e interesses
-
-- Desenvolvimento web com foco em back-end, mas com carinho especial por interfaces bem pensadas  
-- Organização de código, estruturação de banco de dados e clareza na lógica  
-- Acredito que a tecnologia fica melhor quando é simples, funcional e feita com atenção aos detalhes
-
----
-
-### 🌱 Em constante evolução
-
-- Estudando **Power BI** e conceitos de visualização e transformação de dados
-- Aprendendo a utilizar o Figma
-- Aprofundando meu conhecimento em versionamento com Git e desenvolvimento colaborativo  
-
----
-
-### 🎨 Um toque de arte
-
-- Além da tecnologia, sou apaixonada por práticas artísticas como **desenho, música e até artesanato**  
-- Essas atividades me ajudam a exercitar o olhar sensível, a pensar fora da caixa e a trazer soluções criativas para os desafios que encontro no mundo corporativo
-
----
-
-### ☕ Sobre mim (além do código)
-
-- Faço academia para manter o equilíbrio entre mente e corpo  
-- Gosto de ambientes de trabalho leves, onde ideias circulam e todo mundo cresce junto  
-- Levo meu trabalho a sério, mas acredito que dá pra fazer isso com leveza e bom humor
-
----
-
 ### 📬 Vamos conversar?
 
 <div> 
