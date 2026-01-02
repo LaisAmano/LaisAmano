@@ -4,15 +4,6 @@
 - 💻 Hoje me dedico a aprender mais sobre **JavaScript, Node.js, EJS e SQL**, sempre seguindo o padrão **MVC** para manter organização e escalabilidade.  
 - 🎯 Busco oportunidades para crescer na área de tecnologia, aplicando criatividade e boas práticas na construção de soluções reais.
 
-<div class="github-stats">
-  <a href="https://github.com/LaisAmano" target="_blank">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaisAmano&show_icons=true&theme=dracula&hide_rank=true" alt="GitHub Stats">
-  </a>
-  <a href="https://github.com/LaisAmano" target="_blank">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaisAmano&show_icons=true&theme=dracula" alt="Top Langs">
-  </a>
-</div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
